@@ -1,0 +1,22 @@
+body {
+	position: relative;
+}
+img{
+	max-width: 600px;
+}
+p{
+	width: 60%;
+	font-family: arial;
+	padding: 1em;
+
+}
+.parrafo1{
+	background:#FCFDAC ;
+}
+.parrafo2{
+	background: #93E8F2;
+
+}
+.parrafo3{
+	background: #FDBBBB;
+}
